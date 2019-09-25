@@ -1,5 +1,18 @@
 # java_benchmark
 ```
+System:
+Processor	Intel(R) Xeon(R) CPU E5-2660 v3 @ 2.60GHz, 2597 Mhz, 4 Core(s), 4 Logical Processor(s)
+BIOS Version/Date	Phoenix Technologies LTD 6.00, 05/04/2016
+SMBIOS Version	2.7
+
+Installed Physical Memory (RAM)	12.0 GB
+Total Physical Memory	12.0 GB
+Available Physical Memory	3.33 GB
+Total Virtual Memory	27.6 GB
+Available Virtual Memory	11.1 GB
+Page File Space	15.6 GB
+
+
 # JMH version: 1.19
 # VM version: JDK 1.8.0_161, VM 25.161-b12
 # VM invoker: C:\Program Files\Java\jdk1.8.0_161\jre\bin\java.exe
