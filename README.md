@@ -16,7 +16,6 @@ Page File Space	15.6 GB
 # JMH version: 1.19
 # VM version: JDK 1.8.0_161, VM 25.161-b12
 # VM invoker: C:\Program Files\Java\jdk1.8.0_161\jre\bin\java.exe
-# VM options: -javaagent:C:\Users\a647113\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2019.1.1\lib\idea_rt.jar=63697:C:\Users\a647113\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2019.1.1\bin -Dfile.encoding=UTF-8
 # Warmup: 20 iterations, 1 s each
 # Measurement: 20 iterations, 1 s each
 # Timeout: 10 min per iteration
