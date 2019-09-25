@@ -27,5 +27,5 @@ Page File Space	15.6 GB
 Benchmark                       Mode  Cnt   Score   Error  Units
 StreamBenchMark.stream          avgt  200  11.409 ± 0.197  ns/op
 StreamBenchMark.streamParallel  avgt  200   9.319 ± 0.119  ns/op
-StreamBenchMark.iterator         avgt  200   8.207 ± 0.135  ns/op
+StreamBenchMark.iterator        avgt  200   8.207 ± 0.135  ns/op
 ```
