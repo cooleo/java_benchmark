@@ -9,14 +9,6 @@
 # Timeout: 10 min per iteration
 # Threads: 1 thread, will synchronize iterations
 # Benchmark mode: Average time, time/op
-# Benchmark: hello.StreamBenchMark.stream
-
-
-Result "StreamBenchMark.iterator":
-  8.207 ±(99.9%) 0.135 ns/op [Average]
-  (min, avg, max) = (7.498, 8.207, 12.762), stdev = 0.570
-  CI (99.9%): [8.072, 8.341] (assumes normal distribution)
-
 
 # Run complete. Total time: 00:20:51
 
